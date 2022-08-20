@@ -21,7 +21,7 @@
 我也是一个开源爱好者和维护者。我从开源社区学到了很多东西，我喜欢通过开源实现协作和知识共享的方式。
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" / >
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 任何自由职业？一定要到达，[电子邮件](mailto:abhishek.naidu@cred.club) :)
 - 💬问我任何事情，我很乐意提供帮助；
