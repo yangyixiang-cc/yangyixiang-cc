@@ -18,7 +18,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 问我任何事情，我很乐意提供帮助，[电子邮件](workyyx@163.com) :)
+- 💬 问我任何事情，我很乐意提供帮助，[电子邮件](mailto:workyyx@163.com) :)
 - 😊 欢迎关注我的公众号：yanghi
 
 **语言和工具：**  
