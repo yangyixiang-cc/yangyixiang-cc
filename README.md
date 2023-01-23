@@ -2,13 +2,6 @@
 <a href="https://juejin.cn/user/4073020685824680">
   <img align="left" alt="yanghi 的 掘金" width="22px" src="https://lf-cdn-tos.bytescm.com/obj/static/xitu_extension/static/gold.981a5510.svg" />
 </a>
-<a href="https://space.bilibili.com/402659690">
-  <img align="left" alt="yanghi 的 bilibli" width="22px" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fcdn2.image.apk.gfan.com%2Fasdf%2FPImages%2F2012%2F7%2F8%2F264469_2572e33ab-b690-4f49-8e10-0fd88a8b522d.png&refer=http%3A%2F%2Fcdn2.image.apk.gfan.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1663587001&t=d6d636d39f1768bd462146a96628ed9a" />
-</a>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 嗨，我是 yangh！我对软件的热情在于构思创意并通过优雅的界面将它们变为现实。我非常注意我构建的东西的体验、架构和代码质量。
