@@ -35,15 +35,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 <br/>
 <br/>
-<br/>
-如果你喜欢我的工作，可以考虑给我买杯咖啡/茶🥺👉👈
-<br/>
-<br/>
-<br/>
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt= "给我买杯咖啡" width="150" ></a>
-<br/>
-<br/>
-<br/>
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yangyixiang-cc&count_private=true&show_icons=true&include_all_commits=true)
 ![经常使用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=yangyixiang-cc&hide=TeX&layout=compact)
