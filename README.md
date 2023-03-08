@@ -6,22 +6,15 @@
 
 嗨，我是 yangh！我对软件的热情在于构思创意并通过优雅的界面将它们变为现实。我非常注意我构建的东西的体验、架构和代码质量。
 
-我也是一个开源爱好者和维护者。我从开源社区学到了很多东西，我喜欢通过开源实现协作和知识共享的方式。
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+我也是一个开源爱好者。我从开源社区学到了很多东西，我喜欢通过开源实现协作和知识共享的方式。  
 - 💬 问我任何事情，我很乐意提供帮助，[电子邮件](mailto:workyyx@163.com) :)
-- 😊 欢迎关注我的公众号：yanghi
 
 **语言和工具：**  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=Vue)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
