@@ -1,9 +1,4 @@
 ### 嘿嘿
-<a href="https://juejin.cn/user/4073020685824680">
-  <img align="left" alt="yanghi 的 掘金" width="22px" src="https://lf-cdn-tos.bytescm.com/obj/static/xitu_extension/static/gold.981a5510.svg" />
-</a>
-<br />
-
 嗨，我是 yanghi！我是一个开源爱好者。我从开源社区学到了很多东西，我喜欢通过开源实现协作和知识共享的方式。  
 - 💬 问我任何事情，我很乐意提供帮助，[电子邮件](mailto:workyyx@163.com) :)
 
