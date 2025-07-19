@@ -1,6 +1,5 @@
 ### 嘿嘿
-嗨，我是 yanghi！我是一个开源爱好者。我从开源社区学到了很多东西，我喜欢通过开源实现协作和知识共享的方式。  
-- 💬 问我任何事情，我很乐意提供帮助，[电子邮件](mailto:workyyx@163.com) :)
+嗨，我是 yanghi！我是一个开源爱好者。
 
 **语言和工具：**  
 
@@ -23,6 +22,6 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yangyixiang-cc&count_private=true&show_icons=true&include_all_commits=true)
-![经常使用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=yangyixiang-cc&hide=TeX&layout=compact)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yangyixiang-cc.yangyixiang-cc)
